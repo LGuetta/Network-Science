@@ -3,3 +3,6 @@ pandas
 python-louvain
 matplotlib
 geopandas==0.14.4
+fiona==1.9.6
+geodatasets
+scipy
