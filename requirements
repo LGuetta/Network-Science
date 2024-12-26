@@ -2,3 +2,4 @@ pyecharts
 pandas
 python-louvain
 matplotlib
+geopandas==0.14.4
