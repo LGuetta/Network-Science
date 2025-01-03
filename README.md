@@ -76,4 +76,4 @@ The global airline network is efficient and modular, balancing connectivity with
 ## How to Run the Code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/airline-network-analysis.git
+   git clone https://github.com/LGuetta/airline-network-analysis.git
