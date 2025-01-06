@@ -77,3 +77,7 @@ The global airline network is efficient and modular, balancing connectivity with
 1. Clone the repository:
    ```bash
    git clone https://github.com/LGuetta/airline-network-analysis.git
+
+2. Install Libraries: Make sure you have all the required libraries installed (the code includes the installation commands).
+3. Data Files: Ensure cleaned_airports.csv and cleaned_routes.csv are in the same directory as the notebook, or update the data_path variable accordingly.
+4. Execute: Run all the code cells in the notebook.
